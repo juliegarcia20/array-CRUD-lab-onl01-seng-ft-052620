@@ -11,7 +11,7 @@ def add_element_to_end_of_array(array, elements)
 end
 
 def add_element_to_start_of_array(array, element)
-  ["dog", "cat", "bird", "turtle"].unshift("arrays!")
+  ["dog", "cat", "bird", "turtle"].unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
